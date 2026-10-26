@@ -209,10 +209,3 @@ tests/test_model.py::test_model_loading_and_prediction PASSED
 tests/test_model.py::test_batch_prediction PASSED
 
 11 passed in ~11s
-```
-
----
-
-## License & Author
-
-Built by [nvbao117](https://github.com/nvbao117) as an enterprise-grade Machine Learning & MLOps reference project.
